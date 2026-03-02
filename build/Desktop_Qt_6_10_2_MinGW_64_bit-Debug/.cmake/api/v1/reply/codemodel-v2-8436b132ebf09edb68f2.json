@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-795d0f9e0d4e800a948c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TutorialLearning",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialLearning::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialLearning-Debug-ccdd2230a9da15e950dc.json",
+					"name" : "TutorialLearning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialLearning_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialLearning_autogen-Debug-9b6ac902d3a8358e6cf3.json",
+					"name" : "TutorialLearning_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TutorialLearning_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TutorialLearning_autogen_timestamp_deps-Debug-df39cd04fe19ef00dc1f.json",
+					"name" : "TutorialLearning_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/acd07/Documents/QT_Projects/TutorialLearning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
