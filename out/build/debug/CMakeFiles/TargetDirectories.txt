@@ -1,0 +1,8 @@
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/TutorialLearning.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/list_install_components.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/install.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/install/local.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/TutorialLearning_autogen_timestamp_deps.dir
+C:/Users/acd07/Documents/QT_Projects/TutorialLearning/out/build/debug/CMakeFiles/TutorialLearning_autogen.dir

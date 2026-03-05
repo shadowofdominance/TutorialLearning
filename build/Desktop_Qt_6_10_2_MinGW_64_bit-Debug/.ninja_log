@@ -1,0 +1,23 @@
+# ninja log v6
+49	879	7943378262760787	TutorialLearning_autogen/timestamp	92d1a8f009e1eb06
+49	879	7943378262760787	TutorialLearning_autogen/mocs_compilation.cpp	92d1a8f009e1eb06
+49	879	7943378262760787	C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TutorialLearning_autogen/timestamp	92d1a8f009e1eb06
+49	879	7943378262760787	C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TutorialLearning_autogen/mocs_compilation.cpp	92d1a8f009e1eb06
+885	3485	7943378263646362	CMakeFiles/TutorialLearning.dir/TutorialLearning_autogen/mocs_compilation.cpp.obj	855904e4bf3a1688
+894	3493	7943378263710817	CMakeFiles/TutorialLearning.dir/mainwindow.cpp.obj	93cdbc1662a735c4
+890	9598	7943378263688189	CMakeFiles/TutorialLearning.dir/main.cpp.obj	3c3b4df4347448c1
+9603	10162	7943378350820907	TutorialLearning.exe	54454254d1ee85d8
+11	187	7943378945831391	TutorialLearning_autogen/timestamp	92d1a8f009e1eb06
+11	187	7943378945831391	TutorialLearning_autogen/mocs_compilation.cpp	92d1a8f009e1eb06
+11	187	7943378945831391	C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TutorialLearning_autogen/timestamp	92d1a8f009e1eb06
+11	187	7943378945831391	C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TutorialLearning_autogen/mocs_compilation.cpp	92d1a8f009e1eb06
+193	2531	7943378947669705	CMakeFiles/TutorialLearning.dir/mainwindow.cpp.obj	93cdbc1662a735c4
+189	6970	7943378947628979	CMakeFiles/TutorialLearning.dir/main.cpp.obj	3c3b4df4347448c1
+6971	7157	7943379015433688	TutorialLearning.exe	54454254d1ee85d8
+73	286	7944153830920540	TutorialLearning_autogen/timestamp	92d1a8f009e1eb06
+73	286	7944153830920540	TutorialLearning_autogen/mocs_compilation.cpp	92d1a8f009e1eb06
+73	286	7944153830920540	C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TutorialLearning_autogen/timestamp	92d1a8f009e1eb06
+73	286	7944153830920540	C:/Users/acd07/Documents/QT_Projects/TutorialLearning/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TutorialLearning_autogen/mocs_compilation.cpp	92d1a8f009e1eb06
+292	3179	7944153833127054	CMakeFiles/TutorialLearning.dir/mainwindow.cpp.obj	93cdbc1662a735c4
+287	7587	7944153833081067	CMakeFiles/TutorialLearning.dir/main.cpp.obj	3c3b4df4347448c1
+7587	8051	7944153906085643	TutorialLearning.exe	54454254d1ee85d8
